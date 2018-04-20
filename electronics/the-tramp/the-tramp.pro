@@ -1,4 +1,4 @@
-update=Fri 20 Apr 2018 10:51:19 AM CDT
+update=Fri 20 Apr 2018 12:44:10 PM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=library
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,4 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=library/myLib
+LibName30=library/tramp
