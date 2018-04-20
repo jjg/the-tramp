@@ -3,9 +3,9 @@
   (general
     (links 25)
     (no_connects 25)
-    (area 93.904999 98.984999 174.065001 134.695001)
+    (area 91.459267 85.111519 173.56866 135.75822)
     (thickness 1.6)
-    (drawings 4)
+    (drawings 0)
     (tracks 0)
     (zones 0)
     (modules 15)
@@ -743,10 +743,5 @@
     (fp_line (start -0.35052 0.89916) (end -0.70104 1.89992) (layer F.SilkS) (width 0.15))
     (fp_line (start 0.35052 0.89916) (end 0.7493 1.89992) (layer F.SilkS) (width 0.15))
   )
-
-  (gr_line (start 173.99 99.06) (end 93.98 99.06) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 173.99 134.62) (end 173.99 99.06) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 93.98 134.62) (end 173.99 134.62) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 93.98 99.06) (end 93.98 134.62) (angle 90) (layer Edge.Cuts) (width 0.15))
 
 )
